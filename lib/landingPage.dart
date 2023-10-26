@@ -101,8 +101,11 @@ class BackgroundImageWithButtons extends StatelessWidget {
                  
                 ],
               ),
-            )),
+            )
+            ),
+    
       ],
+    
     );
   }
 }
